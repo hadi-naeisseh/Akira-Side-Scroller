@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "-Dmain=SDL_main",
+                "${workspaceFolder}/src/main.cpp",
+                "-I${workspaceFolder}/include/SDL2",
+                "-L${workspaceFolder}/lib/x64",
+                "-o",
+                "${workspaceFolder}/bin/game.exe",
+                "-lmingw32",
+                "-lSDL2main",
+                "-lSDL2",
+                "-lole32",
+                "-lwinmm",
+                "-limm32",
+                "-lversion",
+                "-lgdi32",
+                "-loleaut32",
+                "-lsetupapi",
+                "-mwindows"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Generated task by Debugger."
+        }
+    ]
+}
