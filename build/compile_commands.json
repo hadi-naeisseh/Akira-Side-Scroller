@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/projects/Akira-Side-Scroller/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++11 -o CMakeFiles\\AkiraSideScroller.dir\\src\\main.cpp.obj -c C:\\projects\\Akira-Side-Scroller\\src\\main.cpp",
+  "file": "C:\\projects\\Akira-Side-Scroller\\src\\main.cpp",
+  "output": "CMakeFiles\\AkiraSideScroller.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/projects/Akira-Side-Scroller/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++11 -o CMakeFiles\\AkiraSideScroller.dir\\src\\Game.cpp.obj -c C:\\projects\\Akira-Side-Scroller\\src\\Game.cpp",
+  "file": "C:\\projects\\Akira-Side-Scroller\\src\\Game.cpp",
+  "output": "CMakeFiles\\AkiraSideScroller.dir\\src\\Game.cpp.obj"
+}
+]

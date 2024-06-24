@@ -1,0 +1,3 @@
+C:/projects/Akira-Side-Scroller/build/CMakeFiles/AkiraSideScroller.dir
+C:/projects/Akira-Side-Scroller/build/CMakeFiles/edit_cache.dir
+C:/projects/Akira-Side-Scroller/build/CMakeFiles/rebuild_cache.dir
